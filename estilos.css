@@ -1,0 +1,19 @@
+CSS estilos
+body{
+	color: blue;
+}
+body{
+	background-color: white;
+}
+.container{
+	margin: 28px;
+	padding: 28px;
+	background-color: lightgreen;
+	border: 2px solid red;
+}
+.box{
+	padding: 10px;
+	background-color: white;
+	border: 1px solid red;
+	margin-bottom: 18px;
+}
